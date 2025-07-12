@@ -1,0 +1,15 @@
+:root {
+    --bg-color: #1a1a1a;
+    --text-color: #ffffff;
+    --accent-color: #6a3d9a;
+}
+
+body {
+    background: var(--bg-color);
+    color: var(--text-color);
+}
+
+.preview {
+    background: var(--accent-color);
+    border: 2px solid #ff9e00;
+}
